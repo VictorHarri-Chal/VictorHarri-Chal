@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 
 <!-- MARKDOWN LINKS, ALIAS & IMAGES -->
-![github-shield]: https://img.shields.io/badge/-other_repositories-black.svg?style=for-the-badge&logo=github&colorB=555
-![github-url]: https://github.com/VictorHarri-Chal?tab=repositories
+[github-shield]: https://img.shields.io/badge/-other_repositories-black.svg?style=for-the-badge&logo=github&colorB=555
+[github-url]: https://github.com/VictorHarri-Chal?tab=repositories
