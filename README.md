@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently learning SQL and Python
+- 🌱 I'm currently learning C++
 
 - 🎇 I love playing arround with game development and cybersecurity
 
