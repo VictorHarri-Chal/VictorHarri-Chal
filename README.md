@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently learning C++
+- 🌱 I'm currently at Epitech Nantes for my 3rd year learning C, C++, Python an more...
 
-- 🎇 I love playing arround with game development and cybersecurity
+- 🎇 I love playing arround with game development
 
 - 📫 How to reach me: victorharrichal@yahoo.com
