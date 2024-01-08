@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently at Epitech Nantes for my 3rd year learning C, C++, Python an more...
+- 🌱 I'm currently at Epitech Nantes for my 5th year !
 
-- 🎇 I love playing arround with game development
+- 🎇 I love playing arround with web & game development...
 
-- 📫 How to reach me: victorharrichal@yahoo.com
+- 📫 How to reach me: victorharrichal@yahoo.com or https://www.linkedin.com/in/victor-harri-chal/
