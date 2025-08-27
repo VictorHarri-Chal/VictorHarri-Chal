@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hey there! I'm Victor
 
-- 🌱 I'm currently at Epitech Nantes for my 5th year !
+🎓 **Just graduated from Epitech Nantes** - Passionate about modern web development
 
-- 💎 Ruby on Rails developer
+💎 **Ruby on Rails Developer** - I love building elegant and performant applications
 
-- 📫 How to reach me: victorharrichal@yahoo.com or https://www.linkedin.com/in/victor-harri-chal/
+🚀 **Portfolio** : [victorharri-chal.com](https://victorharri-chal.com)
+
+ **Get in touch** : victorharrichal@yahoo.com | [LinkedIn](https://www.linkedin.com/in/victor-harri-chal/)
+
+---
+
+⚡ **Currently** : Working on innovative projects with Rails, open to any new projects or ideas !
