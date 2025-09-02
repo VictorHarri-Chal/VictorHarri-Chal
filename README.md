@@ -10,4 +10,13 @@
 
 ---
 
-⚡ **Currently** : Working on innovative projects with Rails, open to any new projects or ideas !
+Tech skills:
+- ✅ Ruby / Ruby on Rails / Hotwire (Stimulus, Turbo) / Rspec
+- ✅ TS / JS / React / Angular
+- ✅ C / C++ / Python / Java
+- ✅ PostgreSQL / Redis / Sidekiq / ActionCable
+- ✅ Slim / View components / Tailwind
+- ✅ Devise / Mapbox / Geocoder
+- ✅ Responsive Design / PWA
+- ✅ Stripe / API
+- ✅ Kamal / CleverCloud / Github / Gandi
