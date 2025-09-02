@@ -1,8 +1,8 @@
 ### Hey there! I'm Victor
 
-🎓 **Just graduated from Epitech Nantes** - Passionate about modern web development
+🎓 **Just graduated from Epitech Nantes** • Passionate about modern web development
 
-💎 **Ruby on Rails Developer** - I love building elegant and performant applications
+💎 **Ruby on Rails Developer** • I love building elegant and performant applications
 
 🚀 **Portfolio** : [victorharri-chal.com](https://victorharri-chal.com)
 
