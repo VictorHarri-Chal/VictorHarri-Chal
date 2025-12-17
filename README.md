@@ -4,7 +4,7 @@
 
 💎 **Ruby on Rails Developer** • I love building elegant and performant applications
 
-🚀 **Portfolio** : [victorharri-chal.com](https://victorharri-chal.com)
+🚀 **Portfolio** : [Click here](https://victorharri-chal.github.io/victorharrichal.github.io/)
 
  **Get in touch** : victorharrichal@yahoo.com | [LinkedIn](https://www.linkedin.com/in/victor-harri-chal/)
 
