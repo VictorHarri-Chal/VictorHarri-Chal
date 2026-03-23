@@ -8,7 +8,7 @@
 
 ---
 
-**Core stack**
+**Core stack:**
 - ✅ Ruby / Ruby on Rails / Hotwire (Stimulus, Turbo) / Rspec
 - ✅ PostgreSQL / Redis / Sidekiq / ActionCable
 - ✅ Slim / View components / Tailwind
@@ -18,6 +18,5 @@
 - ✅ Kamal / CleverCloud / Github / Gandi
 
 
-**Also comfortable with**
-
+**Also comfortable with:**
 React • Angular • TS • Python • C • C++
