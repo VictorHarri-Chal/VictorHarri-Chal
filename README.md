@@ -19,4 +19,5 @@
 
 
 **Also comfortable with**
+
 React • Angular • TS • Python • C • C++
