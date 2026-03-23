@@ -8,7 +8,7 @@
 
 ---
 
-Core stack:
+**Core stack**
 - ✅ Ruby / Ruby on Rails / Hotwire (Stimulus, Turbo) / Rspec
 - ✅ PostgreSQL / Redis / Sidekiq / ActionCable
 - ✅ Slim / View components / Tailwind
